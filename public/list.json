@@ -1,0 +1,107 @@
+[
+    {
+        "id" : "1",
+        "name" : "Spiritual Books",
+        "title" : "Spiritual Books about life",
+        "category" : "spirituality",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Sports Books",
+        "title" : "Sports Books about life",
+        "category" : "Sports",
+        "price" : 20,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Fictional Books",
+        "title" : "Fictional Books about life",
+        "category" : "Fictions",
+        "price" : 100,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Biography Books",
+        "title" : "Biography Books about life",
+        "category" : "Biographies",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Motivational Books",
+        "title" : "Motivations Books about life",
+        "category" : "Motivations",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "Love Books",
+        "title" : "Love Books about love",
+        "category" : "Love",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "Self Help Books",
+        "title" : "Self Help Books about life",
+        "category" : "self help",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Science Books",
+        "title" : "Science Books about life",
+        "category" : "Science",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "9",
+        "name" : "Vedic Books",
+        "title" : "Vedic Books about Veds",
+        "category" : "Veds",
+        "price" : 40,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "10",
+        "name" : "Philosopihies Books",
+        "title" : "Philosopihies Books about life",
+        "category" : "Philosopihies",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "11",
+        "name" : "Autobiographies Books",
+        "title" : "Autobiographies Books about life",
+        "category" : "Autobiographies",
+        "price" : 890,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+    {
+        "id" : "12",
+        "name" : "Comedy Books",
+        "title" : "Comedy Books about lough",
+        "category" : "Comedy",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    },
+   
+    {
+        "id" : "13",
+        "name" : "Discovery Books",
+        "title" : "Discovery Books about new things",
+        "category" : "Discovery",
+        "price" : 0,
+        "image" : "https://t3.ftcdn.net/jpg/10/52/96/46/360_F_1052964679_Z4iG4AtW53CYVihpkySWzwUkC7LB9a9w.jpg"
+    }
+]
